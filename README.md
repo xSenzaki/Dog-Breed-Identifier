@@ -13,10 +13,10 @@ This Dog Breed Identifier is a project that leverages the power of deep learning
 
 # OVERVIEW
 The project consists of two main components:
-    * Model Training ('train_model.py)'
+    - Model Training ('train_model.py)'
         Utilizes TensorFlow and Keras to create a CNN model based on the MobileNetV2 architecture.
         Fine-tunes the model using a dataset containing images of the five dog breeds for training and validation.
-    * User Interface ('app.py')
+    - User Interface ('app.py')
         Uses Tkinter for the graphical user interface (GUI).
         Allows users to upload an image of a dog.
         Predicts the breed of the dog using the trained CNN model.
@@ -37,5 +37,6 @@ The project consists of two main components:
 # OUTPUT
 After completing the training, testing, and validation process for the model, the fine-tuned model file named 'fine_tuned_model_mobilenetv2.keras' will be saved in the main root directory of the folder. Additionally, within the 'dist' folder, where the 'app.exe' executable file is located, users can run the executable file to open the Dog Breed Identifier App.
 
-![output_1](https://github.com/xSenzaki/Dog-Breed-Identifier/assets/105161390/3ca9cfe8-bafb-4433-8075-06967a2db46c)
-![output_2](https://github.com/xSenzaki/Dog-Breed-Identifier/assets/105161390/d9b7a989-b606-4011-92f6-daa4b6660c61)
+![output_1](https://github.com/xSenzaki/Dog-Breed-Identifier/assets/105161390/b4188df5-1c34-4ada-81bf-5463c5695a2f)
+![output_2](https://github.com/xSenzaki/Dog-Breed-Identifier/assets/105161390/c9fbf63a-60ca-4c1e-9ea5-fd7756b630d3)
+

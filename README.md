@@ -1,5 +1,5 @@
 # Dog Breed Identifier
-This Dog Breed Identifier is a project that leverages the power of deep learning, specifically Convolutional Neural Networks (CNNs), to accurately identify the breed of a dog from an uploaded image. The system is trained on a diverse dataset containing images of five popular dog breeds: Bulldog, Chihuahua, German Shepherd, Golden Retriever, and Husk
+This Dog Breed Identifier is a project that leverages the power of deep learning, specifically Convolutional Neural Networks (CNNs), to accurately identify the breed of a dog from an uploaded image. The system is trained on a diverse dataset containing images of five popular dog breeds: Bulldog, Chihuahua, German Shepherd, Golden Retriever, and Husky
     
 # REQUIREMENTS
     The Dog Breed Identifier requires the following Python libraries:
@@ -35,7 +35,7 @@ This Dog Breed Identifier is a project that leverages the power of deep learning
       Validation Accuracy: 89%
 
 # OUTPUT
-After completing the training, testing, and validation process for the model, the fine-tuned model file named 'fine_tuned_model_mobilenetv2.keras' will be saved in the main root directory of the folder. Additionally, within the 'dist' folder, where the 'app.exe' executable file is located, users can run the executable file to open the Dog Breed Identifier App.
+After completing the training, testing, and validation process for the model, the fine-tuned model file named 'fine_tuned_model_mobilenetv2.keras' will be saved in the main root directory of the folder. Run the 'app.py' to run the program.
 
 ![output_1](https://github.com/xSenzaki/Dog-Breed-Identifier/assets/105161390/b4188df5-1c34-4ada-81bf-5463c5695a2f)
 ![output_2](https://github.com/xSenzaki/Dog-Breed-Identifier/assets/105161390/c9fbf63a-60ca-4c1e-9ea5-fd7756b630d3)
